@@ -1,7 +1,7 @@
-cd2db2018226ac53de166a4b8c1567f6 *DESCRIPTION
+cac5418172842593f0aaf4b179c5e030 *DESCRIPTION
 acb5f2f22a02ffcd296887fc7591c9b9 *NAMESPACE
-a06bf82d9baa043732fb4c3957a05ae1 *NEWS.md
-b12984c886ab23ed4588b4930762d2af *R/correlation_matrix.R
+7ea061463107e945976a1979b530c3da *NEWS.md
+3c1063b8012afe76aa7340ab4df9d336 *R/correlation_matrix.R
 86d363f49f40c221ac57076449851b65 *R/save_correlation_matrix.R
 473df51015faafceffae4d1d2d49ef85 *man/correlation_matrix.Rd
 052430e9a47f1c6be7171261f47ddac6 *man/save_correlation_matrix.Rd
